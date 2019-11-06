@@ -1,0 +1,6 @@
+.caixinha  {
+    width: 250px;
+    height: 250px;
+    border: 1px solid green;
+    box-shadow: 1px 1px 2px 2px 2px black;
+}
